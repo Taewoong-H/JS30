@@ -5,6 +5,7 @@ learning Vanilla Javascript!
 ## Learning
 
 - Day1 ✅
+- Day2 ✅
 
 ## Reference
 
