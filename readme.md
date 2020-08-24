@@ -10,6 +10,7 @@ learning Vanilla Javascript!
 - Day4 ✅
 - Day5 ✅
 - Day6 ✅
+- Day7 ✅
 
 ## Result Page
 

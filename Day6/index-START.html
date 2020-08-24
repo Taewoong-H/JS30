@@ -22,6 +22,7 @@
       fetch(endpoint)
         .then((blob) => blob.json())
         .then((data) => cities.push(...data)); // spread 하는거. 그냥 data넣으면 array가 통째로 들어가서 각 요소를 spread하여 넣는다.
+
       function findMatchs(wordToMatch, cities) {
         return cities.filter((place) => {
           // here we need to figure out if the city on state matches what was searched
